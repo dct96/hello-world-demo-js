@@ -1,2 +1,2 @@
 // This is my first Repo
-console.log("Hello Git. This is dctspeeder ");
+console.log("Hello Git & GitHub. This is dctspeeder ");
